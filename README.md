@@ -50,6 +50,14 @@ Formado em Ciência da Computação e pós graduado em IA e Ciência de Dados
 ![](https://img.shields.io/badge/Extra-DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=562349)
 ![](https://img.shields.io/badge/Extra-Scrum-informational?style=flat&logo=trello&logoColor=white&color=562349)
 
+
+## 📦 Repositórios (Agrupados por tópicos)
+* 🐍 [Python](https://github.com/gabriel-praca/python)
+* 🎮 [Games](https://github.com/gabriel-praca/games)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-praca&repo=python&theme=dark&custom_title=teste&title_color=ff822e)](https://github.com/gabriel-praca/python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-praca&repo=games&theme=dark)](https://github.com/gabriel-praca/games) -->
+
 <!--<div align="center">
   <a href="https://github.com/gabriel-praca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-praca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
